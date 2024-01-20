@@ -30,10 +30,10 @@ python3 --version
 ```
   
 2. Run consola_bancos_de_sangre.py file. It will display 4 banks with some characteristics.
-<img width="572" alt="Screenshot 2024-01-20 at 12 24 18 PM" src="https://github.com/isamgalindo/BloodBank/assets/141882033/66e17f1f-b29d-4c46-86bf-a90160ac7456">
+<img width="571" alt="Screenshot 2024-01-20 at 1 15 08 PM" src="https://github.com/isamgalindo/Blood-bank/assets/141882033/7f69ef2a-540f-41d8-8be9-e75c597c638f">
 
 3. Then, there is a menu of options and you have to type the number of the options you want to run
-<img width="397" alt="Screenshot 2024-01-20 at 12 25 41 PM" src="https://github.com/isamgalindo/BloodBank/assets/141882033/ce4b7856-6159-41db-b030-cd98ef613a24">
+<img width="340" alt="Screenshot 2024-01-20 at 1 15 54 PM" src="https://github.com/isamgalindo/Blood-bank/assets/141882033/962f3a2b-380e-43c3-927a-5ea7fcfd9059">
 
 ### Characteristics
 - genero (genre) is either F (femenino) or M (masculino)
